@@ -1,6 +1,0 @@
-{
-  "name": "Html Preview",
-  "tagline": "A HTML text editor and previewer in Browser.",
-  "body": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<meta charset=\"ISO-8859-1\">\r\n<title>Insert title here</title>\r\n<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/vivekwisdom/HTMLPreview/master/css/style.css\">\r\n<script src=\"https://raw.githubusercontent.com/vivekwisdom/HTMLPreview/master/js/script.js\"></script>\r\n</head>\r\n<body>\r\n\t<h2>HTML Preview</h2>\r\n\t<textarea id=\"mycode\" placeholder=\"Type the HTML\" oninput=\"update();\"></textarea>\r\n\t<iframe id=\"display\"></iframe>\t<br>\r\n</body>\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
